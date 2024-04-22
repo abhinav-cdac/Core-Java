@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+public class DoubleAverage {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.print("Enter value D1 = ");
+		double d1 = sc.nextDouble();
+		System.out.print("Enter value D1 = ");
+		double d2 = sc.nextDouble();
+		
+		if(sc.hasNextDouble()) {
+			System.out.println("Average = "+((d1+d2)/2));
+		}
+		else
+		{
+			System.out.println("Can't calculate Average.\n Entered value(s) is/are not double(s) ");
+		}
+
+	}
+
+}

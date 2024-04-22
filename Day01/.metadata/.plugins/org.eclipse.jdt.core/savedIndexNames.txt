@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\PGDAC24\Core_Java\java_practice\Day01\.metadata\.plugins\org.eclipse.jdt.core
+2622148844.index
+3175232888.index
+1865797976.index
